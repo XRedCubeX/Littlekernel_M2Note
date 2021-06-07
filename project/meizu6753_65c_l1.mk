@@ -1,6 +1,6 @@
 LOCAL_DIR := $(GET_LOCAL_DIR)
 
-TARGET := dwav6753_65c_s_l1
+TARGET := meizu6753_65c_l1
 
 MODULES += app/mt_boot \
            dev/lcm
